@@ -26,7 +26,7 @@
 
 
 
-        <!-- SAMPLE TEXT, SETUP FLUTTER ACTIVITY
+        <!-- SAMPLE TEXT, SETUP FLUTTER ACTIVITY, DELETE LATER
     <activity
     android:name=".MyActivity"
     android:theme="@style/LaunchTheme"
